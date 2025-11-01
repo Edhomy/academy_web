@@ -12,16 +12,16 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+  <base href="http://edhomy.com">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Discover Academy — find certified courses from institutions or creators from Edhomy.">
 
   <!-- iOS meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Edhomy Academy<">
+  <meta name="apple-mobile-web-app-title" content="Edhomy Academy">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
@@ -86,12 +86,6 @@
       bottom: 0;
       right: 0;
     }
-
-    @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #000000;
-          }
-    }
   </style>
   <script id="splash-screen-script">
     function removeSplashFromWeb() {
@@ -108,7 +102,7 @@
       <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
       <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
   </picture>
+  <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
+  <script src="https://meet.jit.si/external_api.js" type="application/javascript"></script>
   <script src="flutter_bootstrap.js" async=""></script>
-
-
 </body></html>
