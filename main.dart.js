@@ -55383,7 +55383,7 @@ return A.r($async$$0,r)},
 $S:6}
 A.UF.prototype={
 H(a){var s=null,r=t.J,q=t.p
-return A.O(s,A.aP(A.b([A.kk(A.ck(A.b([B.II,A.hc(A.aP(A.b([A.aC("Edhomy Platform",s,s,s,B.Jc,B.l,s),A.aC(A.N(a,B.h,r).gdk(),s,s,s,B.Jg,B.l,s),A.aC(A.N(a,B.h,r).gcL(),s,s,s,B.J9,B.l,s),A.ht(20,"assets/images/android.png",u.F,10,20,40,A.N(a,B.h,r).gcE()),A.ht(20,"assets/images/apple.png",u.s,10,20,40,A.N(a,B.h,r).gcF()),A.ht(20,"assets/images/mac.png",u.t,10,20,40,A.N(a,B.h,r).gcR())],q),B.Q,B.v,B.m),1),new A.k1($.rz[0],500,800,s)],q),B.u,B.a2,B.m),s,1232)],q),B.u,B.v,B.m),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
+return A.O(s,A.aP(A.b([A.kk(A.ck(A.b([B.II,A.hc(A.aP(A.b([A.aC("Edhomy Platform",s,s,s,B.Jc,B.l,s),A.aC(A.N(a,B.h,r).gdk(),s,s,s,B.Jg,B.l,s),A.aC(A.N(a,B.h,r).gcL(),s,s,s,B.J9,B.l,s),A.ht(20,"assets/images/android.png",u.F,10,20,40,A.N(a,B.h,r).gcE()),A.ht(20,"assets/images/apple.png",u.s,10,20,40,A.N(a,B.h,r).gcF()),A.ht(20,"assets/images/mac.png",u.t,10,20,40,A.N(a,B.h,r).gcR())],q),B.Q,B.v,B.m),1),new A.k1($.rz[0],400,800,s)],q),B.u,B.a2,B.m),s,1232)],q),B.u,B.v,B.m),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
 A.UT.prototype={
 H(a){var s=null,r=t.J,q=t.p
 return A.O(s,A.aP(A.b([B.dO,A.aC(A.N(a,B.h,r).gcL(),s,s,s,A.i(s,s,B.t,s,s,s,s,s,"IBMPlexSansMedium",s,s,50,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.aP(A.b([A.ht(20,"assets/images/android.png",u.F,10,20,40,A.N(a,B.h,r).gcE()),A.ht(20,"assets/images/apple.png",u.s,10,20,40,A.N(a,B.h,r).gcF()),A.ht(20,"assets/images/mac.png",u.t,10,20,40,A.N(a,B.h,r).gcR())],q),B.u,B.a2,B.m),B.dO],q),B.u,B.v,B.m),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
@@ -119501,7 +119501,7 @@ $.b71=A.z(t.C_,t.lT)
 $.aft=!1
 $.afd=null
 $.jA=null
-$.rz=A.b(["assets/photos/image1.jpg","assets/photos/image2.jpg","assets/photos/image3.jpg","assets/photos/image4.jpg","assets/photos/image5.jpg","assets/photos/image6.jpg","assets/photos/image7.jpg"],t.s)
+$.rz=A.b(["assets/photos/image1.jpg","assets/photos/image2.jpg","assets/photos/image3.jpg"],t.s)
 $.bfZ=A.b([B.a0N,B.a0O,B.a0P,B.a0Q,B.a0S,B.a0T,B.a0U,B.a0V,B.a0W,B.a0X,B.a0Y,B.a0Z,B.a1_,B.a10,B.a11,B.a12,B.a13,B.a14,B.a15,B.a16,B.a17,B.a18,B.a19,B.a1a,B.a1b,B.a1c,B.a1d,B.a1e,B.a1f,B.a1g,B.a1h,B.a1i],t.ss)
 $.ahm=null
 $.aWZ=A.z(t.N,A.af("xW"))
