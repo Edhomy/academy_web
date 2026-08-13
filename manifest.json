@@ -1,11 +1,11 @@
 {
-    "name": "Edhomy Platform",
-    "short_name": "Edhomy",
+    "name": "Edhomy Academy",
+    "short_name": "Edhomy Academy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Discover Edhomy — Learn a new language with a certified educator. Book a call, explore professional courses, and videos. Master the language today!",
+    "description": "Discover Academy — The marketplace for courses and certifications from businesses and educators worldwide. Learn from certified courses and stay ahead of what’s new.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
